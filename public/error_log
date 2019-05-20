@@ -1,0 +1,1 @@
+[04-Jan-2019 10:48:28 Asia/Kolkata] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/nimmy0yaa9kr/public_html/cup/app/Http/Controllers/BillingController.php on line 3
